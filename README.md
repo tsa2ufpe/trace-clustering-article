@@ -1,6 +1,6 @@
 # trace-clustering-article
 
-Welcome to this repository! Here, you'll find a collection of Google Colab notebooks designed to explore and optimize clustering techniques, specifically tailored for applications using HDBSCAN and other advanced methods. Each notebook contains code and detailed explanations, making it suitable for both beginners and experienced data scientists.
+Welcome! Here, you'll find a collection of Google Colab notebooks used on article that explore and optimize clustering techniques, specifically tailored for applications using unsupervised learning methods. Each notebook contains code and detailed explanations, making it suitable for both beginners and experienced data scientists.
 
 ---
 

@@ -8,7 +8,7 @@ Welcome to this repository! Here, you'll find a collection of Google Colab noteb
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/clustering-analysis.git
+   git clone https://github.com/tsa2ufpe/trace-clustering-article.git
 
 ---
 
